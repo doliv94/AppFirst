@@ -1,3 +1,2 @@
-# AppFirst
+# Manual de Sobrevivência
 
-Nome: Manual de Sobrevivência
