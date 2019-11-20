@@ -38,6 +38,25 @@
           >
             {{ next.text }}
           </a>
+          <p>
+            <label for="name">Nome</label>
+            <input
+              id="name"
+              v-model="name"
+              type="text"
+              name="name"
+            >
+          </p>
+
+          <p>
+            <label for="email">Email</label>
+            <input
+              id="email"
+              v-model="email"
+              type="email"
+              name="email"
+            >
+          </p>
         </v-layout>
       </v-flex>
 
