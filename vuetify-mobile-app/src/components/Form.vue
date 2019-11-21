@@ -1,3 +1,4 @@
+<template>
 <form
   id="app"
   @submit="checkForm"
@@ -54,3 +55,4 @@
   </p>
 
 </form>
+</template>
